@@ -21,6 +21,7 @@ buildNumber.properties
 *.zip
 *.tar.gz
 *.class
+*.mdb
 
 node/
 node_modules/
